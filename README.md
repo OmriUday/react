@@ -57,9 +57,9 @@ Before you begin, ensure you have Docker installed. If not:
 2. **View the App**:
    Open your browser and navigate to: [http://localhost:8080](http://localhost:8080/)
 
-<br><br>
+<br>
 💡 Tip: For an optimal user experience, you can adjust the table columns by dragging them.<br>
-     Click on "reset columns size per page" if you wish to reset any changes.
+     &nbsp; Click on "reset columns size per page" if you wish to reset any changes.
 
 Made with ❤️ by Omri Uday.
 Happy Coding!
