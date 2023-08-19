@@ -43,7 +43,7 @@ Before you begin, ensure you have Docker installed. If not:
    git clone https://github.com/OmriUday/agura-home-assignment.git
    cd agura-home-assignment
 
-   Or use the combined command:
+   - Or use the combined command:
    git clone https://github.com/OmriUday/agura-home-assignment.git && cd agura-home-assignment
 
 2. **Build and Run with Docker**:
@@ -51,7 +51,7 @@ Before you begin, ensure you have Docker installed. If not:
    docker build -t agura-assignment-image .
    docker run --name agura-assignment-container -p 8080:8080 agura-assignment-image
 
-   Or use the combined command:
+   - Or use the combined command:
    docker build -t agura-assignment-image . && docker run --name agura-assignment-container -p 8080:8080 agura-assignment-image
 
 2. **View the App**:
